@@ -72,8 +72,7 @@ See full results in published paper.
 If you use this code or data, please cite:
 
 ```
-Heston TF. The Blockchain–AI Framework for Transparent Climate Data 
-Management: A Methodological Proposal. PLOS Climate. 2025. [In press]
+Heston TF. The Blockchain–AI Framework for Transparent Climate Data Management: A Methodological Proposal. [In press]
 ```
 
 ## License
@@ -94,9 +93,9 @@ Expected runtime: 2-5 minutes
 
 ## Contact
 
-**Tom Heston, MD**  
-Washington State University  
-Email: tom.heston@wsu.edu  
+**Thomas F. Heston, MD**  
+University of Washington
+https://faculty.washington.edu/theston/contact
 ORCID: [0000-0002-5655-2512](https://orcid.org/0000-0002-5655-2512)
 
 ## Acknowledgments
