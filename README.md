@@ -3,7 +3,7 @@
 
      # Blockchain-AI Climate Data Framework: Real-World Validation
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/1082188576.svg)](https://doi.org/10.5281/zenodo.17429218)
 
 Supporting code and data for: **"The Blockchain–AI Framework for Transparent Climate Data Management: A Methodological Proposal"**
 
@@ -72,7 +72,7 @@ See full results in published paper.
 If you use this code or data, please cite:
 
 ```
-Heston TF. The Blockchain–AI Framework for Transparent Climate Data Management: A Methodological Proposal. [In press]
+Thomas F. Heston MD. (2025). tomheston/blockchain-ai-climate-framework: Blockchain AI Study (v1.0.1). Zenodo. 10.5281/zenodo.17429218.
 ```
 
 ## License
@@ -95,7 +95,7 @@ Expected runtime: 2-5 minutes
 
 **Thomas F. Heston, MD**  
 University of Washington
-https://faculty.washington.edu/theston/contact
+https://faculty.washington.edu/theston/contact  
 ORCID: [0000-0002-5655-2512](https://orcid.org/0000-0002-5655-2512)
 
 ## Acknowledgments
@@ -104,6 +104,6 @@ NOAA National Centers for Environmental Information for providing open climate d
 
 ---
 
-**Repository archived on Zenodo:** https://doi.org/10.5281/zenodo.XXXXXXX
+**Repository archived on Zenodo:** https://doi.org/10.5281/zenodo.17429218
 
 **Last updated:** 2025-10-23
