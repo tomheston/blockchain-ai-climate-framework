@@ -1,6 +1,4 @@
 # blockchain-ai-climate-framework
-code and data 
-   "<a href=\"https://colab.research.google.com/github/tomheston/blockchain-ai-climate-framework/blob/main/notebooks/noaa_validation_analysis.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
 
 
      # Blockchain-AI Climate Data Framework: Real-World Validation
@@ -28,7 +26,7 @@ Supporting code and data for: **"The Blockchain–AI Framework for Transparent C
 
 ```bash
 # Clone repository
-git clone https://github.com/[YOUR-USERNAME]/blockchain-ai-climate-framework.git
+git clone https://github.com/tomheston/blockchain-ai-climate-framework.git
 cd blockchain-ai-climate-framework
 
 # Open notebook in Jupyter
