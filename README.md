@@ -1,11 +1,11 @@
-# blockchain-ai-climate-framework
+# blockchain-climate-framework
 
 
-     # Blockchain-AI Climate Data Framework: Real-World Validation
+     # Blockchain-Climate Data Framework: Real-World Validation
 
 [![DOI](https://zenodo.org/badge/1082188576.svg)](https://doi.org/10.5281/zenodo.17429218)
 
-Supporting code and data for: **"The Blockchain–AI Framework for Transparent Climate Data Management: A Methodological Proposal"**
+Supporting code and data for: **"The Blockchain Framework for Transparent Climate Data Management: A Methodological Proposal"**
 
 ## Contents
 
